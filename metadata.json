@@ -1,0 +1,6 @@
+{
+  "name": "乘除口算乐园",
+  "description": "专为低年级小朋友设计的趣味乘除法口算学习应用。提供图形化分堆演示、多难度闯关、勋章收集、听算练习以及错题复习，帮助孩子在快乐中打好数学基础。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
